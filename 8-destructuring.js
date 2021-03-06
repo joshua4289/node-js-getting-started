@@ -1,0 +1,1 @@
+../4-modern-js/8-destructuring.js
